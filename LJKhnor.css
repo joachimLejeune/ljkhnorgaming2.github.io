@@ -13,7 +13,7 @@
     background-color: lightgrey;
     }
 body{
-    background-image: url('../image/Fond_ecran_overlay_brique_base.png');
+    background-image: url('image/Fond_ecran_overlay_brique_base.png');
     background-size: 150%;
 }
 header, footer{
