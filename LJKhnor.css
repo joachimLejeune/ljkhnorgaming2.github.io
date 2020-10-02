@@ -79,13 +79,12 @@ nav a{
     background-color: lightgrey;
     padding: 5px;
     border: 2px solid black;
-    margin : 10px;
 }
 
 li{
     list-style-type: none;
     float: left;
-    margin-left: 1px;
+    margin-left: 10px;
 }
 a[href*="twitch"]{
     background-color: rgb(160, 70, 245);
