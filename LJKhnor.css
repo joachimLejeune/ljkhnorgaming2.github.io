@@ -79,8 +79,7 @@ nav a{
     background-color: lightgrey;
     padding: 5px;
     border: 2px solid black;
-    margin-left: auto;
-    margin-right: auto;
+    margin : 10px;
 }
 
 li{
