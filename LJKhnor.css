@@ -83,7 +83,7 @@ nav a{
 
 li{
     list-style-type: none;
-    float: left;
+    
     margin-left: 1px;
 }
 a[href*="twitch"]{
